@@ -3,7 +3,7 @@ const cors = require('cors');
 // mongoose helps us connect to mongoDB database
 const mongoose = require('mongoose');
 
-// configures environment variablrd
+// configures environment variables
 require('dotenv').config();
 
 // next two lines make the express server
